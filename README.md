@@ -1,1 +1,0 @@
-# checkpoint-sorting-and-searching-algorithm
